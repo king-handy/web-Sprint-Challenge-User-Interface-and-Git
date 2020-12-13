@@ -33,23 +33,24 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
-
-
+    
+    Semantic HTML is used to define content in a webpage for organization and search engines. Semantic elements are for organization only, and do not define how these elements look visually on the webpage.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
-
-
+    
+    Display elements control webpage layout. Block level elements takes up the full width of the page starting on a new line; whereas inline elements are only used for the width necesarry.
 
 3. What are the 4 areas of the box model?
-
-
+    
+    Box model consists of content, padding, border, and margin for use in styling elements.
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
-
-
+    
+    Center aligns elements at the center of a defined container with respect to height.
 
 5. Explain why git is valuable to a team of developers.
 
+    Git is a collaborative version control system, which allows programmers to coordinate and track changes in a given source code during development.
 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
@@ -64,7 +65,7 @@ You are expected to be able to answer all these questions. Your responses contri
  
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
 
 
 
